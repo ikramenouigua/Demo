@@ -5,7 +5,7 @@ import Pagination from '../components/Pagination/Pagination';
 import { User } from '../types';
 import UserService from '../services/UserService';
 
-import './UserPage.css'; // Import du fichier CSS pour le composant UserPage
+import './UserPage.css'; 
 
 
 const UserPage: React.FC = () => {

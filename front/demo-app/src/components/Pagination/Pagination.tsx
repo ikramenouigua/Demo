@@ -1,5 +1,5 @@
 import React from 'react';
-import './Pagination.css'; // Import du fichier CSS pour la pagination
+import './Pagination.css'; 
 
 interface Props {
   usersPerPage: number;

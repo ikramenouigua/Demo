@@ -1,6 +1,6 @@
 import React from 'react';
 import { User } from '../../types';
-import './UserDetail.css'; // Import du fichier CSS pour le composant UserDetail
+import './UserDetail.css'; 
 
 interface Props {
   user: User;
