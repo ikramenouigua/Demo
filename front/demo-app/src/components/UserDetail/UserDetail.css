@@ -1,0 +1,27 @@
+/* UserDetail.css */
+.user-detail {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-detail h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .user-detail p {
+    margin-bottom: 5px;
+  }
+  
+  .user-detail p:last-child {
+    margin-bottom: 0;
+  }
+  
+  .user-detail p strong {
+    font-weight: bold;
+  }
+  
